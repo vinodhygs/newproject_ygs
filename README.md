@@ -1,2 +1,2 @@
 # newproject_ygs
-This is my new branch
+This repository is for practicing the GitHub Flow
