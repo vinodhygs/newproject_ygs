@@ -1,2 +1,2 @@
 # newproject_ygs
-future
+main
